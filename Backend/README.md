@@ -1,6 +1,6 @@
 # MediCare Backend
 
-This project provides the backend services for the MediBlock platform, designed to connect patients and doctors. It's built using Next.js, a React framework, and is currently hosted on Vercel. The backend supports various CRUD operations (except deletion) to ensure platform resilience and is connected to a MongoDB database for data management.
+This project provides the backend services for the MediCare platform, designed to connect patients and doctors. It's built using Next.js, a React framework, and is currently hosted on Vercel. The backend supports various CRUD operations (except deletion) to ensure platform resilience and is connected to a MongoDB database for data management.
 
 ## Table of Contents
 
